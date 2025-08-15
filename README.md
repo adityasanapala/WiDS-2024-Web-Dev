@@ -1,4 +1,4 @@
-# WiDS 2024 - Winter in the Web
+# WiDS 2024 - Winter in the Web (Under temporary maintenance)
 
 This repository is created as part of the "Winter in the Web" project under the Analytics Club, IIT Bombay and is being mentored by [Nischal Pendurthi](https://github.com/NischalPendurthi) and [me](https://github.com/adityasanapala).
 
